@@ -13,16 +13,16 @@ Encourages competition and recognition among users.
 ### Social Media Sharing
 Expands the reach of accomplishments through social media platforms.
 
-### ChatSpace
+### ChatSpace *
 Enables real-time group discussions and private chat rooms for users.
 
 ### User Profile
 Allows users to personalize their profiles and showcase their achievements.
 
-### Consistency Companion
+### Consistency Companion *
 Helps users maintain daily learning consistency.
 
-### Learning Unit
+### Learning Unit *
 Seamlessly blends teaching and practice for an effective learning experience.
 
 ### Notifications System
@@ -45,4 +45,4 @@ Safwaat allows users to connect with peers, track their progress, and achieve th
 
 ---
 
-*Note: This Markdown file provides an overview of the key features and aspects of Safwaat, emphasizing its user-centric design and comprehensive approach to Arabic pronunciation and Tajweed learning.*
+#### *Note: Features Marked with * are the one whose FRONTEND I have contributed to Safwaat.*
