@@ -1,6 +1,7 @@
 # Safwaat: Empowering Arabic Pronunciation and Tajweed Learning
 
 Safwaat is a comprehensive and engaging educational application designed to empower users with effective learning tools, personalized experiences, and meaningful progress tracking. With a range of dynamic features, our platform provides an enjoyable and highly effective learning journey for users seeking to excel in Arabic pronunciation and Tajweed skills.
+#### [Documentation](https://github.com/I-Muhammad-Zain-I/Safwaat-Documentation)
 
 ## Key Features
 
